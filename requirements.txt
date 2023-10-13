@@ -16,5 +16,3 @@ urllib3
 requests
 pickleshare
 watchdog
-libxml2
-libxml2-dev
